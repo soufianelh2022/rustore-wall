@@ -46,22 +46,22 @@
 },
  
  "wall":[
-  {"title":"584",
-  "photo":"https://github.com/proman0/admin/blob/main/3713.jpg?raw=true"},
-  {"title":"214",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"145",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"7845",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"1452",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"210",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"485",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
   {"title":"5854",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
+  "photo":"https://iili.io/J50pW1R.png"},
+  {"title":"214",
+  "photo":"https://iili.io/J50pW1R.png"},
+  {"title":"145",
+  "photo":"https://iili.io/J50pW1R.png"},
+  {"title":"7845",
+  "photo":"https://iili.io/J50pW1R.png"},
+  {"title":"1452",
+  "photo":"https://iili.io/J50pW1R.png"},
+  {"title":"210",
+  "photo":"https://iili.io/J50pW1R.png"},
+  {"title":"485",
+  "photo":"https://iili.io/J50pW1R.png"},
+  {"title":"5854",
+  "photo":"https://iili.io/J50pW1R.png"}
    ],
 
    "catego":[
@@ -74,13 +74,13 @@
   {"title":" RU STORE ANIME 4K ",
   "photo":"https://www.iguides.ru/upload/medialibrary/6e4/lfqilon71nsg7off7h7ln8i954fa3dp4.png"},
   {"title":" rustore love Picture",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":" title6 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":" title7 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":" title8 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
+  "photo":"https://avatars.mds.yandex.net/i?id=c578409f7483e0fdc973d33b7f4070164552b034-10736367-images-thumbs&n=13"},
+  {"title":" Restore 4k",
+  "photo":"https://www.iguides.ru/upload/medialibrary/11a/z20o6mggjmfxt73xvyftxox5l3q3rxqw.png"},
+  {"title":" Rustore Pack ser",
+  "photo":"https://static.rustore.ru/image/rustore_deeplink_600x315.jpg"},
+  {"title":" prenuim pack of rustore",
+  "photo":"https://avatars.mds.yandex.net/i?id=5898fd8b62cc83bedb8f481cc1903d3298a7cd14-10869732-images-thumbs&n=13"}
    ],
 
  
