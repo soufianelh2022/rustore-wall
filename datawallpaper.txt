@@ -14,7 +14,7 @@
 
   
 "ironsource_inter":"DefaultInterstitial",
-"iron_appkey":"1cfb12c0d",
+"iron_appkey":"85460dcd",
 "ironsource_banner":"DefaultBanner",
 "ironsource_reward":"DefaultReward",
  
@@ -38,6 +38,7 @@
 
 
 
+
 "banner_network_choice":"yandex", 
 "interstisial_network_choice":"yandex", 
 "reward_network_choice":"yandex",
@@ -50,40 +51,40 @@
  
  "wall":[
   {"title":"584",
-  "photo":"https://avatars.mds.yandex.net/i?id=8bcb063e11b44085c0daf020771f991931f471c5-4888343-images-thumbs&n=13"},
-  {"title":"Best Wallpaper ",
-  "photo":"https://avatars.mds.yandex.net/i?id=f538444e79408747569366ea587c7d711a2a31d8-4546582-images-thumbs&n=13"},
-  {"title":"best 4k wallpapers",
-  "photo":"https://avatars.mds.yandex.net/i?id=d129269d84baf962ca3cd94119d8b42bb05c8daf-9838067-images-thumbs&n=13"},
-  {"title":"best 4k wallpapers",
-  "photo":"https://avatars.mds.yandex.net/i?id=074185309df17ee4b0eb45f65163576d4946e0a2-10869728-images-thumbs&n=13"},
-  {"title":"best 4k wallpapers",
-  "photo":"https://avatars.mds.yandex.net/i?id=25ce9b69fb2975267f97a3f06c9dc45236892e56-10952956-images-thumbs&n=13"},
-  {"title":"best 4k wallpapers",
-  "photo":"https://avatars.mds.yandex.net/i?id=fc1ff4ceeffd2c199e8afde1f3324aaa1d5214e9-10769069-images-thumbs&n=13"},
-  {"title":"best 4k wallpapers",
-  "photo":"https://avatars.mds.yandex.net/i?id=cd15a61c79c4c0789eff69421fd912ac12542f76-10840543-images-thumbs&n=13"},
-  {"title":"best 4k wallpapers",
-  "photo":"https://avatars.mds.yandex.net/i?id=5df8477c778c612ebf84526d97bbab6f37b94545-10160381-images-thumbs&n=13"}
+  "photo":"https://github.com/proman0/admin/blob/main/3713.jpg?raw=true"},
+  {"title":"214",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":"145",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":"7845",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":"1452",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":"210",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":"485",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":"5854",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
    ],
 
    "catego":[
-  {"title":"anime",
-  "photo":"https://avatars.mds.yandex.net/i?id=c13af95a37cb841e95fe4ee9f9e76c5bb3404462-10702343-images-thumbs&n=13"},
-  {"title":" Love ",
-  "photo":"https://avatars.mds.yandex.net/i?id=5df8477c778c612ebf84526d97bbab6f37b94545-10160381-images-thumbs&n=13"},
-  {"title":" Animal",
-  "photo":"https://avatars.mds.yandex.net/i?id=3f7a63f9bd78db1610fe0ada88e2ee2143d67435-10449875-images-thumbs&n=13"},
-  {"title":" Puzzle",
-  "photo":"https://avatars.mds.yandex.net/i?id=ee1476a0f3bef4e46f275eb70bb05aa8-5269624-images-thumbs&n=13"},
-  {"title":" Dogs",
-  "photo":"https://avatars.mds.yandex.net/i?id=c005ac9ce3f1875553499ec3b56a47219b454aff-5236414-images-thumbs&n=13"},
-  {"title":"Asmr",
-  "photo":"https://avatars.mds.yandex.net/i?id=05a97aefe68b8956ff0d1b5b94ca93589d31ab33-4297394-images-thumbs&n=13"},
-  {"title":"Prenuim",
-  "photo":"https://avatars.mds.yandex.net/i?id=de78e22fe1281107fce3ff547f43d083398a5684-4476958-images-thumbs&n=13"},
-  {"title":"FUll Hd ",
-  "photo":"https://avatars.mds.yandex.net/i?id=63c182b1bf3f5cf395f4cc661541958972867f08-9181286-images-thumbs&n=13"}
+  {"title":" title1 ser",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":" title2 ser",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":" title3 ser",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":" title4 ser",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":" title5 ser",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":" title6 ser",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":" title7 ser",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":" title8 ser",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
    ],
 
  
